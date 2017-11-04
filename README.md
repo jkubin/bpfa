@@ -1,4 +1,4 @@
 # bpfa
-Binary Patch utils For Adults
-(bpfa) is a binary utility for Microchip COFF used for small 8bit MCU
+Binary PIC18 utils For Adults
+CLI tool for Microchip COFF
 (in development)
